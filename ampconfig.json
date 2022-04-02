@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "test amplication",
+    "description": "Pmera prueba",
+    "version": "1z57876y",
+    "id": "cl1gw5onp66206101s6rvks171z",
+    "url": "https://app.amplication.com/cl1gw5onp66206101s6rvks171z",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1gw5onp66206101s6rvks171z",
+      "authProvider": "Jwt"
+    }
+  }
+}
